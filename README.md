@@ -3,9 +3,12 @@ ResumeUp is trying to solve the issue of creating high quality resumes that can 
 
 ## Example:
 Before:
-<img width="687" alt="Screen Shot 2024-07-07 at 8 29 45 PM" src="https://github.com/sid-prakash/ResumeUp/assets/84790796/1adf7592-f7c9-423d-8486-f6126012d8c4">
+
+<img width="500" alt="resume_before" src="https://github.com/sid-prakash/ResumeUp/assets/84790796/1adf7592-f7c9-423d-8486-f6126012d8c4">
+
 After:
-<img width="683" alt="Screen Shot 2024-07-07 at 8 30 09 PM" src="https://github.com/sid-prakash/ResumeUp/assets/84790796/4f8ef6a6-36d5-441a-8c1a-f28349ebfc05">
+
+<img width="500" alt="resume_after" src="https://github.com/sid-prakash/ResumeUp/assets/84790796/4f8ef6a6-36d5-441a-8c1a-f28349ebfc05">
 
 
 ### App Routing
